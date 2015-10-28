@@ -6,4 +6,8 @@ public class LisasWork {
 		return "Hello!";
 	}
 	
+	public String sayHelloAgain() {
+		return "Hello again!";
+	}
+	
 }
