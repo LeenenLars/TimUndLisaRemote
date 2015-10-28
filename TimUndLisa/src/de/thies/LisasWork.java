@@ -2,11 +2,11 @@ package de.thies;
 
 public class LisasWork {
 
-	public String sayHello() {
+	public String sagGutenTag() {
 		return "Hello!";
 	}
 	
-	public String sayHelloAgain() {
+	public String sagNochmalGutenTag() {
 		return "Hello again!";
 	}
 	
